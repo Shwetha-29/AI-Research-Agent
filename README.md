@@ -84,7 +84,7 @@ AI-Research-Agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Shwetha-29/AI-Research-Agent.gits
+git clone https://github.com/Shwetha-29/AI-Research-Agent.git
 ```
 
 ---
@@ -205,6 +205,30 @@ Top AI startups in India
 ```
 OPENROUTER_API_KEY
 ```
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home](screenshots/home.jpeg)
+
+### Research in Progress
+
+![Running](screenshots/running.jpeg)
+
+### Research Results
+
+![Results](screenshots/results.jpeg)
+
+### Generated CSV Output
+
+![CSV](screenshots/preview.jpeg)
+
+### Google Sheets Output
+
+![Google Sheets](screenshots/google_sheet.jpeg)
 
 ---
 
